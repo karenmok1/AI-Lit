@@ -1,1 +1,8 @@
 site_name: BKI mkdocs site
+site_url: https://karenmok1.github.io/AI-Lit/
+use_directory_urls: true
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - 26T4: ai-literacy.md
